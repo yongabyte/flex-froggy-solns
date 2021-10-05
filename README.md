@@ -29,3 +29,5 @@ If `order` has not been set, the default value is zero.
 < 0: move to the front;
 > 0: move to the back;
 
+### align-self
+Similar to align-items, but on a individual item.
