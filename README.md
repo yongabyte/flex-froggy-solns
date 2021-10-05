@@ -22,5 +22,10 @@ l1 - l4
 
 > when you set the direction to a reversed row or column, start and end are also reversed.
 
+### Order
 
+Unlike the properties that we have seen, `order` is applied to the individual items.
+If `order` has not been set, the default value is zero.
+< 0: move to the front;
+> 0: move to the back;
 
