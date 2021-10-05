@@ -31,3 +31,9 @@ If `order` has not been set, the default value is zero.
 
 ### align-self
 Similar to align-items, but on a individual item.
+
+### flex-wrap
+
+> - nowrap: squeezed all the items into a single line
+> - wrap: allows items to be wrapped to additional lines
+> - wrap-reverse: wrap but in reverse
