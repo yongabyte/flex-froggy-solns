@@ -37,3 +37,9 @@ Similar to align-items, but on a individual item.
 > - nowrap: squeezed all the items into a single line
 > - wrap: allows items to be wrapped to additional lines
 > - wrap-reverse: wrap but in reverse
+
+### flex-flow
+Combining `flex-direction` and `flex-wrap`
+
+
+
