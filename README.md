@@ -41,5 +41,10 @@ Similar to align-items, but on a individual item.
 ### flex-flow
 Combining `flex-direction` and `flex-wrap`
 
+### align-content
+- determine spacing b/t `lines`
+- align-items: determine where the items location inside the container.
 
+## l24 Final 
+![image](https://user-images.githubusercontent.com/11052440/136113113-56eb0264-fc92-4595-9ba1-c76f07b6ce52.png)
 
